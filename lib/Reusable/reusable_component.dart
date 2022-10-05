@@ -49,7 +49,7 @@ Widget buildNovelsItem(context, {
                     Expanded(
                       child: Text(
                         '$description',
-                        maxLines: 2,
+                        maxLines: 3,
                         style: const TextStyle(
                           fontSize: 10.0,
                           fontWeight: FontWeight.w600,
